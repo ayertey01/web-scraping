@@ -1,1 +1,1 @@
-First attempt to extract data from a website using beautiful soup library 
+attempt to extract data from a website using beautiful soup library 
